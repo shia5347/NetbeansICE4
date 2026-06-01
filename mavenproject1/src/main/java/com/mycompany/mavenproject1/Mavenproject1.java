@@ -18,4 +18,8 @@ public class Mavenproject1 {
     public void print_random() {
         System.out.println("Hello Some World");
     }
+    
+    public void print_campus() {
+        System.out.println("Davis");
+    }
 }
