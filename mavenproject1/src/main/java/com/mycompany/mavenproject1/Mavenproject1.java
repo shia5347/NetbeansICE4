@@ -13,4 +13,9 @@ public class Mavenproject1 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    
+    
+    public void print_random() {
+        System.out.println("Hello Some World");
+    }
 }
